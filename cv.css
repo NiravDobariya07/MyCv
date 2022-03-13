@@ -1,0 +1,73 @@
+.body{
+    background-color:#D5D8DC ;
+    align-self: center;
+}
+
+.table{
+    margin: auto;
+    width: 700px;
+    height: 800px;
+}
+h1{
+    text-align: center;
+}
+.inf{
+    padding-left: 3%;
+}
+
+.cell{
+    width: 200px;
+    background-color: #1c2833;
+    color: white;
+    padding: 20;
+}
+.a{
+    width: 500px;
+    background-color: #fdfefe;
+    padding: 10px;
+}
+img {
+        border: 1px solid #ddd;
+        margin-left : 70px;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+       
+      }
+ .marks{
+     border: 1px solid black;
+     border-collapse: collapse;
+ }
+ p {
+    font-size: 20px;
+}
+
+.container {
+    background-color: rgb(192, 192, 192);
+    width: 80%;
+    border-radius: 15px;
+}
+
+.skill {
+    background-color: gray;
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+        border-radius: 15px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit ;
+}
+.html {
+    width: 80%;
+}
+
+.php {
+    width: 60%;}
+
+ .marks_Institute{
+     width: 500px;
+ }
